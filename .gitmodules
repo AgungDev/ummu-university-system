@@ -1,0 +1,18 @@
+[submodule "api-getway"]
+	path = api-getway
+	url = https://github.com/AgungDev/ummu-infrastructure.git
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/AgungDev/ummu-auth-service.git
+[submodule "siak-legacy-api"]
+	path = siak-legacy-api
+	url = https://github.com/AgungDev/Siak-Legacy-API.git
+[submodule "ummu-frontend"]
+	path = ummu-frontend
+	url = https://github.com/AgungDev/ummu-akademik-frontend.git
+[submodule "ummu-go-outh"]
+	path = ummu-go-outh
+	url = https://github.com/AgungDev/ummu-go-auth.git
+[submodule "ummu-js-auth"]
+	path = ummu-js-auth
+	url = https://github.com/AgungDev/ummu-js-auth.git
