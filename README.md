@@ -132,6 +132,8 @@ authentication, a REST adapter for legacy SIAK services, the browser frontend,
 and shared Go and JavaScript authentication libraries. Additional academic
 domains can be developed as independent services.
 
+```git submodule update --init --recursive```
+
 ---
 
 ## Author
