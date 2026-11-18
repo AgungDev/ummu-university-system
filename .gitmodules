@@ -7,8 +7,8 @@
 [submodule "siak-legacy-api"]
 	path = siak-legacy-api
 	url = https://github.com/AgungDev/Siak-Legacy-API.git
-[submodule "ummu-frontend"]
-	path = ummu-frontend
+[submodule "ummu-akademik-frontend"]
+	path = ummu-akademik-frontend
 	url = https://github.com/AgungDev/ummu-akademik-frontend.git
 [submodule "ummu-go-outh"]
 	path = ummu-go-outh

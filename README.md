@@ -97,7 +97,7 @@ for service observability.
 
 | Module | Responsibility |
 | --- | --- |
-| [`ummu-frontend/`](./ummu-frontend/README.md) — `ummu-akademik-frontend` | Browser SPA for login and role-based Developer, Finance, Administration, Student, and Lecturer portals. Calls backend APIs through the gateway. |
+| [`ummu-akademik-frontend/`](./ummu-akademik-frontend/README.md) — `ummu-akademik-frontend` | Browser SPA for login and role-based Developer, Finance, Administration, Student, and Lecturer portals. Calls backend APIs through the gateway. |
 | [`ummu-js-auth/`](./ummu-js-auth/README.md) — `ummu-js-auth` | Browser SDK used by the frontend for service-managed Google login, session/token handling, token refresh, logout, and authenticated HTTP requests. It does not issue tokens. |
 | [`ummu-go-outh/`](./ummu-go-outh/README.md) — `ummu-go-auth` | Reusable Go resource-server SDK for validating JWTs with JWKS and enforcing scopes in backend HTTP handlers. Token issuance remains the responsibility of Auth Service. |
 
